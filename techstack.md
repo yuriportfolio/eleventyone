@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 yuriportfolio/eleventyone is built on the following main stack:
+
 - [Mocha](http://mochajs.org/) – Javascript Testing Framework
 - [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -14,11 +15,13 @@ yuriportfolio/eleventyone is built on the following main stack:
 - [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 yuriportfolio/eleventyone is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -31,14 +34,15 @@ yuriportfolio/eleventyone is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='axios'/> [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [yuriportfolio/eleventyone](https://github.com/yuriportfolio/eleventyone)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|36<br/>Tools used|11/09/23 <br/>Report generated|
+|37<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -188,9 +192,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (21)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (22)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (21)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (22)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -201,6 +205,7 @@ Full tech stack [here](/techstack.md)
 |[chai-as-promised](https://www.npmjs.com/chai-as-promised)|v7.1.1|06/12/19|Phil Hawksworth |WTFPL|N/A|
 |[chai-string](https://www.npmjs.com/chai-string)|v1.3.0|06/12/19|Phil Hawksworth |MIT|N/A|
 |[cross-env](https://www.npmjs.com/cross-env)|v5.2.0|06/13/19|Tony Alves |MIT|N/A|
+|[cssnano](https://www.npmjs.com/cssnano)|v4.1.10|06/12/19|Phil Hawksworth |MIT|N/A|
 |[form-data](https://www.npmjs.com/form-data)|v2.3.3|06/12/19|Phil Hawksworth |MIT|N/A|
 |[html-minifier](https://www.npmjs.com/html-minifier)|v4.0.0|06/12/19|Phil Hawksworth |MIT|N/A|
 |[luxon](https://www.npmjs.com/luxon)|v1.16.0|06/12/19|Phil Hawksworth |MIT|[CVE-2023-22467](https://github.com/advisories/GHSA-3xq5-wjfh-ppjc) (High)|
@@ -219,4 +224,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
